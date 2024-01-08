@@ -1,0 +1,29 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PercentageCalculator" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">#f28238</item>
+        <item name="colorSecondary">#3eafbb</item>
+        <item name="android:colorBackground">#2e3552</item>
+        <item name="colorSurface">#2c4169</item>
+
+        <item name="colorOnPrimary">#000000</item>
+        <item name="colorOnBackground">#ffffff</item>
+        <item name="colorOnSurface">#ffffff</item>
+
+        <item name="colorPrimaryVariant">#272626</item>
+        <item name="colorPrimaryDark">#5E5858</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+
+<!--        <item name="android:windowSplashScreenBackground">@color/...</item>-->
+<!--        <item name="android:windowSplashScreenAnimatedIcon">@drawable/...</item>-->
+<!--        <item name="android:windowSplashScreenAnimationDuration">1000</item>-->
+<!--        <item name="android:windowSplashScreenIconBackgroundColor">@color/...</item>-->
+<!--        <item name="android:windowSplashScreenBrandingImage">@drawable/...</item>-->
+    </style>
+
+
+
+    <style name="Theme.PercentageCalculator" parent="Base.Theme.PercentageCalculator" />
+</resources>
